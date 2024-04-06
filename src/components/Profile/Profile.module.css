@@ -1,0 +1,10 @@
+.friendProfile {
+  padding: 20px;
+  border: 1px solid rgb(1, 24, 54);
+  margin: 30px;
+}
+
+.name {
+  color: orange;
+  font-weight: 700;
+}
